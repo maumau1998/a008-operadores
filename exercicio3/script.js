@@ -6,4 +6,6 @@ console.log (!(5 > 50))
 
 console.log (!(20 > 50 || !50 > 60))
 
+console.log ("mauricio\nmauricio\nmauricio")
+
 
